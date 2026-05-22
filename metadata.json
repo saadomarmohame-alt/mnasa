@@ -1,0 +1,6 @@
+{
+  "name": "AL ARGINTINI Academy",
+  "description": "A world-class premium futuristic 3D learning management platform with luxury cinematic interfaces, timed exams, automated certification, and custom developer category control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
